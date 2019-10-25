@@ -1,0 +1,12 @@
+{
+    "name": "martintian/periodic-task",
+    "description": "This is for task the run periodically",
+    "type": "project",
+    "authors": [
+        {
+            "name": "lei1314lei",
+            "email": "547249121@qq.com"
+        }
+    ],
+    "require": {}
+}
