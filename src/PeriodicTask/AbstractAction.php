@@ -6,7 +6,7 @@ namespace PeriodicTask;
 abstract class AbstractAction implements Interfaces\Action
 {
     abstract protected function _checkTimming();
-
+    abstract protected function _execute();
 
     /*
      *

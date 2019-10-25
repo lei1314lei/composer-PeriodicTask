@@ -1,7 +1,7 @@
 <?php
 namespace PeriodicTask\Actions;
 use \PeriodicTask\Exception\Timming as TimmingException;
-class Weekly extends  \PeriodicTask\AbstractAction
+abstract class AbstractWeekly extends  \PeriodicTask\AbstractAction
 {
     protected function _checkTimming()
     {
