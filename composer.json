@@ -8,5 +8,6 @@
             "email": "547249121@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "license":"MIT"
 }
