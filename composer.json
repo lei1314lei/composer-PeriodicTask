@@ -8,6 +8,9 @@
             "email": "547249121@qq.com"
         }
     ],
+    "autoload": {
+        "psr-4": {"PeriodicTask\\": "src/PeriodicTask"}
+    },
     "require": {},
     "license":"MIT"
 }
